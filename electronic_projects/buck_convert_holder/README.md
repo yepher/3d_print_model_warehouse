@@ -1,4 +1,4 @@
-# DC/DC Buck Converter
+# DC/DC Buck Converter (HiLetgo `3-01-1126-B`)
 
 This is a holder for [HiLetgo 5pcs DC-DC Buck Step Down Module 6-24V 12V/24V to 5V 3A USB Charger Module](https://www.amazon.com/gp/product/B01HXU1C6U/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1).
 
@@ -12,3 +12,9 @@ The part is meant to be embedded into other parts.
 
 Ran converter for 2 hours with room ambient temperature at 73°F. Peak temp of converter was 160°F.
 
+
+
+## Alternative
+
+* [USB Buck Converter Case Remixed
+by natecarlson](https://www.thingiverse.com/thing:3416010/files)
