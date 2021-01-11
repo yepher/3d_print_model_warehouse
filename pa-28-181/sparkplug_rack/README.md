@@ -23,4 +23,4 @@ Dimensions: W4.0", L8.0", H2.6.
 * [Aircraft Spark Plug Tray](https://www.thingiverse.com/thing:3587648)
 * [Aviation Spark Plug Case](https://www.thingiverse.com/thing:3677959)
 * [6-Cylinder ContiLyc Spark Plug Holder with Travy](https://www.thingiverse.com/thing:4618692)
-* 
+* kitplanes.com notes on how to make your own [here](https://www.kitplanes.com/engine-beat-56/)
