@@ -13,7 +13,7 @@ Dimensions: W4.0", L8.0", H2.6.
 ![](images/4cyl_shell.gif)
 
 
-Same thing but with slot to put rappers and gauges
+Same thing but with slot to put gappers and gauges
 
 ![Storage Slot](images/SparkPlugTray_w_tool_storage.PNG)
 
