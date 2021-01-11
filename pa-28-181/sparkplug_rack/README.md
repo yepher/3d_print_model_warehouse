@@ -15,6 +15,9 @@ Dimensions: W4.0", L8.0", H2.6.
 
 ![parts](images/sparkplug_rack.PNG)
 
+Same thing but with slot to put rappers and gauges
+
+![Storage Slot](images/SparkPlugTray_w_tool_storage.PNG)
 
 
 
