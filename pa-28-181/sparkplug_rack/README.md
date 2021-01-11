@@ -6,18 +6,28 @@ Made from 18 gauge steel.
 Blue powder coat finish.
 Dimensions: W4.0", L8.0", H2.6.
 
-
-
 * This design is based on Based On [Plug-A-Long Spark Plug Tray](https://www.aircraftspruce.com/catalog/topages/plugalong.php#productMainImage)
 ![](images/plug-a-long.png)
 
 
+![](images/4cyl_shell.gif)
 
-![parts](images/sparkplug_rack.PNG)
 
 Same thing but with slot to put rappers and gauges
 
 ![Storage Slot](images/SparkPlugTray_w_tool_storage.PNG)
+
+The files with `Shell` in the name are shelled parts. To Print without support:
+
+## Shelled Parts (Less filament)
+
+For easy print
+
+* Print `4 Cyl Spark Plug Tray Shell`
+	* Upside Down - 4 Cyl Spark Plug Tray_Shell Rack.stl
+	* Upright - 4 Cyl Spark Plug Tray_ShellToolHolder.stl 
+* Then use PVC glue to glue the two parts together
+* Label the holes manually
 
 
 
